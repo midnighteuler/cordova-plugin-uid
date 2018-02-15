@@ -25,6 +25,8 @@
 		</config-file>
 
 		<source-file src="src/android/UID.java" target-dir="src/org/hygieiasoft/cordova/uid" />
+        <source-file src="src/android/PermissionHelper.java" 
+                     target-dir="src/org/hygieiasoft/cordova/uid" />
 	</platform>
 
 	<platform name="ios">
